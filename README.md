@@ -27,3 +27,5 @@ kotlinおよびAndroidの内容については以下も参照
 ・[BarChart](flutter/BarChart.md)
 
 ・[Pinch・Drag](flutter/PinchDrag.md)
+
+・[Carousel](flutter/Carousel.md)
