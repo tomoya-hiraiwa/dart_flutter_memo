@@ -23,3 +23,5 @@ kotlinおよびAndroidの内容については以下も参照
 ・[Simple Widgets](https://github.com/tomoya-hiraiwa/flutter_samples/tree/main/flutter_interface)
 
 ・[BarChart](flutter/BarChart.md)
+
+・[Pinch・Drag](flutter/PinchDrag.md)
