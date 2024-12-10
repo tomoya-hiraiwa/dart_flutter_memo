@@ -16,3 +16,4 @@
 
 ・[Simple Widgets](https://github.com/tomoya-hiraiwa/flutter_samples/tree/main/flutter_interface)
 
+・[BarChart](flutter/BarChart.md)
