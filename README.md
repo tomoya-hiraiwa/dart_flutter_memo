@@ -2,6 +2,10 @@
 
 ## DartとFlutterの実装に関する知識まとめ
 
+kotlinおよびAndroidの内容については以下も参照
+
+[Android_kotlin_memo](https://github.com/tomoya-hiraiwa/Android_kotlin_memo)
+
 ### Dart
 
 ・[ModelClass](dart/ModelClass.md)
