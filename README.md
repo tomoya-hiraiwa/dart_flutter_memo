@@ -4,7 +4,7 @@
 
 ### Dart
 
-・[ModelClass](flutter/ModelClass.md)
+・[ModelClass](dart/ModelClass.md)
 
 ### Flutter
 
