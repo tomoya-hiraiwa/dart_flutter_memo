@@ -20,6 +20,8 @@ kotlinおよびAndroidの内容については以下も参照
 
 ・[StopWatch](flutter/StopWatch.md)
 
+・[DateTime](flutter/DateTime.md)
+
 ### Widget
 
 ・[Simple Widgets](https://github.com/tomoya-hiraiwa/flutter_samples/tree/main/flutter_interface)
