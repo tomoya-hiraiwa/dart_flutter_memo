@@ -31,3 +31,7 @@ kotlinおよびAndroidの内容については以下も参照
 ・[Pinch・Drag](flutter/PinchDrag.md)
 
 ・[Carousel](flutter/Carousel.md)
+
+### Animation
+
+・[AnimatedAlign](animation/AnimatedAlign.md)
