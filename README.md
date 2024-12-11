@@ -2,9 +2,15 @@
 
 ## DartとFlutterの実装に関する知識まとめ
 
+kotlinおよびAndroidの内容については以下も参照
+
+[Android_kotlin_memo](https://github.com/tomoya-hiraiwa/Android_kotlin_memo)
+
+## 目次
+
 ### Dart
 
-・[ModelClass](flutter/ModelClass.md)
+・[ModelClass](dart/ModelClass.md)
 
 ### Flutter
 
@@ -12,7 +18,20 @@
 
 ・[NativeCode](flutter/NativeCode.md)
 
+・[StopWatch](flutter/StopWatch.md)
+
+・[DateTime](flutter/DateTime.md)
+
 ### Widget
 
 ・[Simple Widgets](https://github.com/tomoya-hiraiwa/flutter_samples/tree/main/flutter_interface)
 
+・[BarChart](flutter/BarChart.md)
+
+・[Pinch・Drag](flutter/PinchDrag.md)
+
+・[Carousel](flutter/Carousel.md)
+
+### Animation
+
+・[AnimatedAlign](animation/AnimatedAlign.md)
