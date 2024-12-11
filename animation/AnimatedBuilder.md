@@ -48,7 +48,7 @@
 
 参考 
 
-[Transform](/animaton/Transform.md)
+[Transform](animaton/Transform.md)
 
 ### `child`のwidgetを外に出す
 
