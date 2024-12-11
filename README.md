@@ -34,6 +34,8 @@ kotlinおよびAndroidの内容については以下も参照
 
 ### Animation
 
+・[AnimatedBuilder](animation/AnimatedBuilder.md)
+
 ・[AnimatedAlign](animation/AnimatedAlign.md)
 
 ・[Transform](animation/Transform.md)
