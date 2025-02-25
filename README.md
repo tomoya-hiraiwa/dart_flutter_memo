@@ -12,6 +12,8 @@ kotlinおよびAndroidの内容については以下も参照
 
 ・[ModelClass](dart/ModelClass.md)
 
+・[timer](dart/timer.md)
+
 ### Flutter
 
 ・[File](flutter/File.md)
