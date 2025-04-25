@@ -24,6 +24,8 @@ kotlinおよびAndroidの内容については以下も参照
 
 ・[DateTime](flutter/DateTime.md)
 
+・[Android Shortcut](flutter/android_shortcut.md)
+
 ### Widget
 
 ・[Simple Widgets](https://github.com/tomoya-hiraiwa/flutter_samples/tree/main/flutter_interface)
